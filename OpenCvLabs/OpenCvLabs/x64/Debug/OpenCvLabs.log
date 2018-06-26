@@ -1,0 +1,6 @@
+﻿  Help.cpp
+c:\users\aosowska\source\repos\opencvlabs\opencvlabs\help.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aosowska\source\repos\opencvlabs\opencvlabs\help.cpp(80): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aosowska\source\repos\opencvlabs\opencvlabs\help.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aosowska\source\repos\opencvlabs\opencvlabs\help.cpp(89): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  OpenCvLabs.vcxproj -> C:\Users\aosowska\source\repos\OpenCvLabs\x64\Debug\OpenCvLabs.exe
